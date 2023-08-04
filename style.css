@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: poppins;
+}
+
+body {
+    text-align: center;
+    color: green;
+    background: url(https://images.unsplash.com/photo-1554034483-04fda0d3507b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80);
+    background-size: cover;
+}
+
+h1 {
+    color: darkseagreen;
+    font-weight: 400;
+    font-size: 50px;
+    letter-spacing: 5px;
+    word-spacing: -5px;
+    text-transform: uppercase;
+}
+
+p {
+    font-size: 15px;
+    line-height: 30px;
+}
+
+.content {
+    border: 5px solid rgb(73, 134, 121);
+    border-radius: 50px;
+    background: rgb(191, 216, 191);
+    border-style: dashed;
+    margin: 50px auto;
+    padding: 20px;
+    width: 80%;
+}
+
